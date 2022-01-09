@@ -100,7 +100,7 @@ Connectez vous ensuite sur l'ip locale de votre Raspberry Pi. Vous deverez rajou
 
 ### Module VR
 
-Il vous suffit simplement de lancer l'application sur unity et de connecter le PC à un casque de réalité virtuelle. **Attention tout de même avec la compatibilité du casque VR, cette solution peut ne pas supporter des modèles différents de l'Oculus Rift S**.
+Il vous suffit simplement de connecter le PC à un casque de réalité virtuelle et de lancer l'application (MobiliVRse Video Manager - Unity Build/MobiliVRse.exe). **Attention tout de même avec la compatibilité du casque VR, cette solution peut ne pas supporter des modèles différents de l'Oculus Rift S**.
 
 
 
